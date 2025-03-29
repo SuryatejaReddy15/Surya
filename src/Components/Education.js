@@ -15,7 +15,7 @@ const Education = () => {
       date: "2021 - 2025",
     },
     {
-      cardTitle: "Alpohres Junior College",
+      cardTitle: "Alphores Junior College",
       cardSubtitle: "Intermediate - MPC",
       cardDetailedText: "PERCENTAGE: 95",
       date: "2019 - 2021",
